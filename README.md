@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Noah 👋
 
-<!--
-**njelich/njelich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech lead with expertise in security research, full stack software engineering, and blockchain development. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working primarily on security audits for L1 protocols.
+- 🌱 I’m currently learning more of the managerial side of security, aiming for CISSP.
+- 👯 I’m looking to collaborate on [Wasmcov](https://github.com/hknio/wasmcov).
+- 🤔 I’m looking for help with finding a new [LinkOff](https://github.com/njelich/LinkOff) maintainer.
+- 💬 Ask me about anything. I can't guarantee a good answer though.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/njelich/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I only learned to whistle in my 20s. I regret not learning sooner.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Among other things, I enjoy sharing my experiences and knowledge at various events. An up to date schedule can be found on [my Sessionize page](https://sessionize.com/njelich).
