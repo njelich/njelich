@@ -11,4 +11,4 @@ I'm a tech lead with expertise in security research, full stack software enginee
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I only learned to whistle in my 20s. I regret not learning sooner.
 
-#### [Events Schedule](https://sessionize.com/njelich)
+#### [You can find me at these events](https://sessionize.com/njelich)
