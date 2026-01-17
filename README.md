@@ -2,7 +2,7 @@
 
 I'm a tech lead with expertise in full-stack development, application security and blockchain development.
 
-- 🔭 I’m currently working at [Oasis Protocol](http://oasisprotocol.org/), sometimes advising [Cyber Capital](https://www.cyber.capital/) and writing articles for [SEAL Frameworks](https://securityalliance.org/).
+- 🔭 I’m currently working at [Oasis Protocol](http://oasisprotocol.org/), advising [Cyber Capital](https://www.cyber.capital/) and writing articles for [SEAL Frameworks](https://securityalliance.org/).
 - 🌱 I’m always learning something new.
 - 🤔 I’m looking for help with finding a new [LinkOff](https://github.com/njelich/LinkOff) maintainer.
 - 💬 Ask me about privacy, security, and FOSS topics.
